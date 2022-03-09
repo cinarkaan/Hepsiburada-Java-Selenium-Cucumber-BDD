@@ -56,13 +56,11 @@
     And : User will be entered information "<email>","<password>" then log in to page
     Then : User login will be verified
  
-    Videos(Chrome/Edge)
-    
-    Edge
+    Videos(Chrome/Edge)   
 
-    https://user-images.githubusercontent.com/55651776/157424780-4f404d06-67f7-4a72-a105-d83faaebc616.mp4
+https://user-images.githubusercontent.com/55651776/157425160-73ffe00e-1d3f-4b55-9d53-b8bb5ce17c2c.mp4
 
-    
+
   
   
 
