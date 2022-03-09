@@ -58,9 +58,11 @@
  
     Videos(Chrome/Edge)
     
+    Edge
+
+    https://user-images.githubusercontent.com/55651776/157424780-4f404d06-67f7-4a72-a105-d83faaebc616.mp4
+
     
-  
-  
   
   
 
