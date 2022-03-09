@@ -1,5 +1,7 @@
 # Hepsiburada
 
+    Requirements : Java,Selenium,ChromeDriver,EdgeDriver
+
     Feature : AddProductOrderCart<br/>
 
 
@@ -20,8 +22,6 @@
     And : User will be selected two product from different users<br/>
     Then : Selected products will be verified from orders<br/>
  
-  
-  
     Videos(Chrome/Edge) <br/>
   
   
