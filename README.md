@@ -1,9 +1,9 @@
 # Hepsiburada
 
-Feature : AddProductOrderCart<br/>
+    Feature : AddProductOrderCart<br/>
 
 
-Case 1 : AddProductWithLogin<br/>
+    Case 1 : AddProductWithLogin<br/>
 
     Given : User will be opened homepage<br/>
     When : User will be login "<email>","<pass>" to website<br/>
@@ -13,7 +13,7 @@ Case 1 : AddProductWithLogin<br/>
     Then : Selected products will be verified from orders<br/>
 
 
-Case2 : AddProductWithoutLogin<br/>
+    Case2 : AddProductWithoutLogin<br/>
     
     Given : User will be opened homepage<br/>
     And : User will be "<item>" searched any product for buy<br/>
@@ -22,7 +22,7 @@ Case2 : AddProductWithoutLogin<br/>
  
   
   
-  Videos(Chrome/Edge) <br/>
+    Videos(Chrome/Edge) <br/>
   
   
   
