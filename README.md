@@ -14,10 +14,12 @@ Case 1 : AddProductWithLogin<br/>
 
 
 Case2 : AddProductWithoutLogin<br/>
+    
     Given : User will be opened homepage<br/>
     And : User will be "<item>" searched any product for buy<br/>
     And : User will be selected two product from different users<br/>
     Then : Selected products will be verified from orders<br/>
+ 
   
   
   Videos(Chrome/Edge) <br/>
