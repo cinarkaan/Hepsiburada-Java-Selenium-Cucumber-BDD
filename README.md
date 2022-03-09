@@ -1,4 +1,4 @@
-# Hepsiburada
+# Hepsiburada Test Automation
 
     Requirements : Java,Selenium,ChromeDriver,EdgeDriver
 
